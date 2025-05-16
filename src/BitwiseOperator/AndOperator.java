@@ -2,6 +2,8 @@ package BitwiseOperator;
 
 import java.util.Scanner;
 
+// this is Bitwise Operator
+
 public class AndOperator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
